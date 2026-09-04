@@ -1,0 +1,15 @@
+{
+  "name": "ionic-beacon-5034",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2154,
+    "createdAt": "2026-09-04T06:17:01.122Z"
+  }
+}
